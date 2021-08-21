@@ -11,11 +11,9 @@ import numpy as np
 
 # Class에 맞게 바꿔줘야함
 classes = [
-"chair",
-"handle",
-"table",
-"button",
-"person",
+"organ1-exposure",
+"organ2-exposure",
+"organ3-exposure",
 ]
 
 # Get 'images' and 'annotations' info
